@@ -1,24 +1,36 @@
 .t,
 .tt,
-.ttt {
+.ttt,
+.e,
+.ee,
+.eee {
     text-align: center;
     font-weight: bold;
     font-family: 'Noto Sans SC', sans-serif;
 }
 .t {
-    font-size: 1.8em;
-    margin-top: 3em;
+    font-size: 1.45em;
+    margin-top: 1em;
+}
+.tt {
+    font-size: 1.3em;
 }
 .ttt {
-    font-size: 1.6em;
+    font-size: 1.15em;
+    line-height: 1.1em;
 }
 .s {
+    margin-left: 1em;
     text-indent: -3em;
     padding-left: 3em;
 }
+.s,
 .a,
 .aa,
-.aaa {
+.aaa,
+.aaaa,
+.aaaaa,
+.aaaaaa {
     font-family: 'Noto Serif SC', serif;
 }
 .a {
@@ -33,9 +45,36 @@
     padding-left: 3em;
 }
 .aaa {
-    text-indent: -1.4em;
+    text-indent: -1.55em;
     padding-left: 4em;
 }
+.aaaa {
+    text-indent: -1.55em;
+    padding-left: 5em;
+}
+.aaaaa {
+    text-indent: -3em;
+    padding-left: 6.5em;
+}
+.aaaaaa {
+    text-indent: -2.55em;
+    padding-left: 7.5em;
+}
+.m {
+    margin-top: 3em;
+    font-weight: bold;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+.e {font-size: 1.3em;}
+.ee {font-size: 1.2em;}
+.eee {font-size: 1.1em;}
+.eeee {
+    font-size: 1.1em;
+    text-align: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
 p {
-    margin-top: -.8em;
+    margin-top: -.7em;
+    font-family: 'Noto Serif SC', serif;
+    text-indent: 2em;
 }
