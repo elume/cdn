@@ -1,36 +1,38 @@
-.sbj,
-.tit {
+.t,
+.tt,
+.ttt {
     text-align: center;
     font-weight: bold;
     font-family: 'Noto Sans SC', sans-serif;
 }
-.sbj {
+.t {
     font-size: 1.8em;
     margin-top: 3em;
 }
-.tit {
+.ttt {
     font-size: 1.6em;
 }
-.romn {
+.s {
+    text-indent: -3em;
+    padding-left: 3em;
+}
+.a,
+.aa,
+.aaa {
+    font-family: 'Noto Serif SC', serif;
+}
+.a {
     font-weight: bold;
     font-family: 'Noto Sans SC', sans-serif;
     text-indent: -2em;
     padding-left: 2em;
 }
-.poia,
-.poio,
-.scrp {
-    font-family: 'Noto Serif SC', serif;
-}
-.scrp {
-    text-indent: -3em;
-    padding-left: 3em;
-}
-.poia {
+
+.aa {
     text-indent: -2em;
     padding-left: 3em;
 }
-.poio {
+.aaa {
     text-indent: -1.4em;
     padding-left: 4em;
 }
