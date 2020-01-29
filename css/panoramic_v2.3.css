@@ -1,12 +1,6 @@
 .t,
 .tt,
-.ttt {
-    text-indent: 0em;
-    margin-right: -1.5em;
-    margin-left: -1.5em;
-    margin-top: .7em;
-    text-align: center;
-}
+.ttt,
 .e,
 .ee,
 .eee {
@@ -19,13 +13,14 @@
     margin-top: .7em;
 }
 .t {
-    font-size: 1.55em;
+    font-size: 1.45em;
 }
 .tt {
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 .ttt {
-    font-size: 1.25em;
+    font-size: 1.15em;
+    line-height: 1.1em;
 }
 .s {
     margin-left: 1em;
@@ -41,9 +36,10 @@
     font-family: 'Noto Serif SC', serif;
 }
 .a {
+    font-weight: bold;
+    font-family: 'Noto Sans SC', sans-serif;
     text-indent: -2em;
     padding-left: 2em;
-    font-size: 1.2em
 }
 
 .aa {
@@ -91,4 +87,8 @@ p {
     margin-right: -2.3em;
     margin-left: -2.3em;
     line-height: 1.3em;
+}
+.fsbtn {
+margin-left: 5em;
+margin-top: 1em;
 }
