@@ -2,10 +2,12 @@
     margin-left: 1em;
     margin-top: 1em;
 }
+
 #text {
     margin-left: -1em;
     margin-right: -1em;
 }
+
 .e,
 .ee,
 .eee,
@@ -29,9 +31,8 @@
     line-height: 1.1em;
 }
 .s {
-    margin-left: 1em;
     text-indent: -3em;
-    padding-left: 2em;
+    padding-left: 4em;
 }
 .aa,
 .aaa,
@@ -39,7 +40,7 @@
 .aaaaa,
 .aaaaaa,
 .s {
-    font-family: 'Noto Serif SC', serif;
+
 }
 .a {
     font-weight: bold;
@@ -92,7 +93,6 @@
 }
 p {
     margin-top: -.7em;
-    font-family: 'Noto Serif SC', serif;
     text-indent: 2em;
     line-height: 1.3em;
 }
